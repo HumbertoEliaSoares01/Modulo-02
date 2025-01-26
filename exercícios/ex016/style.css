@@ -1,0 +1,18 @@
+@charset "UTF-8";
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: radial-gradient(circle,#D9B166 60%,#BF7C63,#A6323B);
+}
+h1 { text-align: center; padding: 10px; color: #A6323B; text-shadow: 2px 2px 4px #BF7C63;}
+h2 { text-align: center; padding: 10px; color: #BF7C63;}
+p { text-indent: 20px; text-align: justify; color: #A6323B;}
+main {
+    background-color: #ffffff;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px rgba(166, 48, 58, 0.725);
+}

@@ -1,0 +1,52 @@
+@charset "UTF-8";
+body{
+/*    background-color: rgb(205, 255, 203); */
+    background-image: radial-gradient(circle,rgb(255,255,255) ,rgb(205, 255, 203) ,rgb(13, 109, 21));
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(4, 109, 0);
+    margin: 10px 25px;
+}
+h2 {
+    color: rgb(200, 30, 100);
+}
+#principal {
+    border-bottom: 2px solid rgb(73, 109, 71);
+    font-size: 2.5em;
+    text-align: center;
+    text-shadow: 4px 4px 4px #000;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+}
+p, h2{
+    margin: 10px 25px;
+    padding: 5px;
+    text-shadow: 0px 0px 30px rgb(4, 109, 0);
+}
+.basico{
+   background-color: rgba(218, 215, 65, 0.425);
+   title="class = basico";
+}
+.intermediario{
+    background-color: rgba(154, 194, 44, 0.425);
+}
+.avancado{
+    background-color: rgba(223, 123, 84, 0.425);
+}
+#logoHTML{
+    position: absolute;
+    top: 120px; 
+    right: 100px;
+    opacity: 0.2;
+}
+#logoCSS{
+    position: absolute;
+    top: 500px;
+    right: 100px;
+    opacity: 0.2;
+}
+hr{
+    border-color: rgb(4, 109, 0);
+    width: 95%;    
+}

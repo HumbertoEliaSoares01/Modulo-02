@@ -1,0 +1,19 @@
+@charset "UTF-8"
+        /* 
+        paleta de cores do site - monocromática - tons de verde 
+        #c5ebd6
+        #83elad
+        #3ddc84
+        #2fa866
+        #1a5c37
+        #063d1e
+        */
+body {
+        background-color: #c5ebd6;
+}
+header > h1 {
+    color: #2fa866;
+}
+main > h1 {
+    color: #1a5c37;
+}
